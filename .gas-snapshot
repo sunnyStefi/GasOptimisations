@@ -1,0 +1,6 @@
+GasOptimisationTest:test_callingConstantTypeMax() (gas: 5508)
+GasOptimisationTest:test_callingTypeMaxDirectly() (gas: 5376)
+GasOptimisationTest:test_normalNotation() (gas: 49749)
+GasOptimisationTest:test_returnVariablesExtended() (gas: 9616)
+GasOptimisationTest:test_returnVariablesReduced() (gas: 5374)
+GasOptimisationTest:test_shortHandNotation() (gas: 49795)
